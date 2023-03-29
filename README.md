@@ -1,7 +1,7 @@
 # Listagem de Posts e Comentários
 ## Teste Técnico
 
-O projeto consome duas API's RESTful simples com o método:
+O projeto consome duas APIs RESTful simples com o método:
 
 - GET
 
